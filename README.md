@@ -54,7 +54,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on how to contribute to 
 
 [Project Board](/project_board.md) - This page has all of the projects in one place, with links to the projects and their descriptions.
 
-[Interest Groups By Topic](/interest_groups.md) - A list of interest groups by topic. This is a work in progress, and we are looking for contributors to help us build this out.
 
 
 
