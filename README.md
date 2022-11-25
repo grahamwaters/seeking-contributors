@@ -31,7 +31,7 @@ This will be a forum for sharing your little projects on your back shelf or wher
   - [Data Science General](#data-science-general)
   - [Data Science for Social Good](#data-science-for-social-good)
   - [Other](#other)
-- [The Semi-Complete Index of Projects](#the-semi-complete-index-of-projects)
+- [Table of Projects with Badging and Descriptions](#table-of-projects-with-badging-and-descriptions)
   - [Acknowledgements](#acknowledgements)
 - [Caffeine and Sundry Necessities](#caffeine-and-sundry-necessities)
 
@@ -114,7 +114,7 @@ This `Badge` will be added to the badge wall for users to peruse. The example ba
 <a href="https://github.com/Sage-Bionetworks/challenge-registry"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sage-Bionetworks&repo=challenge-registry&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="challenge-registry"></a>
 
 
-# The Semi-Complete Index of Projects
+# Table of Projects with Badging and Descriptions
 <!-- populate a table with the projects listed above -->
 | **Project Name** | **Badges** | **Description** |
 |---|---|---|
