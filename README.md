@@ -90,15 +90,14 @@ This `Badge` will be added to the badge wall for users to peruse. The example ba
 <a href="https://github.com/BKAmos/DataScience"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BKAmos&repo=DataScience&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DataScience"></a>
 <a href="https://github.com/VanillaLattA/DatascienceShortcuts"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=VanillaLattA&repo=DatascienceShortcuts&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DatascienceShortcuts"></a>
 <a href="https://github.com/Joyel1441/DatasetHelper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joyel1441&repo=DatasetHelper&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DatasetHelper"></a>
+
 # Data Science for Social Good
 
 <a href="https://github.com/Muskan33/Machine-Learning-Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Muskan33&repo=Machine-Learning-Project&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Machine-Learning-Project"></a>
 
-
 ## Other
 
 <a href="https://github.com/Sage-Bionetworks/challenge-registry"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sage-Bionetworks&repo=challenge-registry&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="challenge-registry"></a>
-
 
 
 # The Semi-Complete Index of Projects
@@ -109,9 +108,8 @@ This `Badge` will be added to the badge wall for users to peruse. The example ba
 | [DatasetHelper](https://github.com/Joyel1441/DatasetHelper) |  ![last commit](https://img.shields.io/github/last-commit/Joyel1441/DatasetHelper) ![code size](https://img.shields.io/github/languages/code-size/Joyel1441/DatasetHelper) ![commit activity](https://img.shields.io/github/commit-activity/m/Joyel1441/DatasetHelper) ![issues](https://img.shields.io/github/issues/Joyel1441/DatasetHelper) | DatasetHelper |
 | [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) |  ![last commit](https://img.shields.io/github/last-commit/MechanicalSoup/MechanicalSoup) ![code size](https://img.shields.io/github/languages/code-size/MechanicalSoup/MechanicalSoup) ![commit activity](https://img.shields.io/github/commit-activity/m/MechanicalSoup/MechanicalSoup) ![issues](https://img.shields.io/github/issues/MechanicalSoup/MechanicalSoup) | A Python library for automating interaction with websites. MechanicalSoup automatically stores and sends cookies, follows redirects, and can follow links and submit forms.  |
 | [druginfo_scraper](https://github.com/grahamwaters/druginfo_scraper) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/druginfo_scraper) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/druginfo_scraper) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/druginfo_scraper) ![issues](https://img.shields.io/github/issues/grahamwaters/druginfo_scraper) | A simple webscraper to gather drug information from web sources. |
-
-
-
+| [challenge-registry](https://github.com/Sage-Bionetworks/challenge-registry) |  ![last commit](https://img.shields.io/github/last-commit/Sage-Bionetworks/challenge-registry) ![code size](https://img.shields.io/github/languages/code-size/Sage-Bionetworks/challenge-registry) ![commit activity](https://img.shields.io/github/commit-activity/m/Sage-Bionetworks/challenge-registry) ![issues](https://img.shields.io/github/issues/Sage-Bionetworks/challenge-registry) | Challenge Registry monorepo  |
+| [dvc](https://github.com/iterative/dvc) |  ![last commit](https://img.shields.io/github/last-commit/iterative/dvc) ![code size](https://img.shields.io/github/languages/code-size/iterative/dvc) ![commit activity](https://img.shields.io/github/commit-activity/m/iterative/dvc) ![issues](https://img.shields.io/github/issues/iterative/dvc) | Version control for your machine learning projects. |
 
 
 
