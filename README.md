@@ -1,11 +1,16 @@
 
 <div align='center'>
+
 ![header](images/header.png)
 
 ![seeking-contributors](https://github.com/grahamwaters/seeking-contributors)
-![last commit](https://img.shields.io/github/last-commit/grahamwaters/seeking-contributors) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/seeking-contributors) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/seeking-contributors) ![issues](https://img.shields.io/github/issues/grahamwaters/seeking-contributors)
+![last commit](https://img.shields.io/github/last-commit/grahamwaters/seeking-contributors)
+![code size](https://img.shields.io/github/languages/code-size/grahamwaters/seeking-contributors)
+![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/seeking-contributors)
+![issues](https://img.shields.io/github/issues/grahamwaters/seeking-contributors)
 
 </div>
+
 This will be a forum for sharing your little projects on your back shelf or where old flames get reignited and passion builds advancement.
 
 
