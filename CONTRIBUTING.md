@@ -6,10 +6,11 @@
 Adding your project is as simple as copying the url of your repo and following the instructions below.
 
 ## Instructions
-1. Copy the url of your repo on GitHub.
+* Copy the url of your repo on GitHub.
 
 ![fig0](images/fig4.png)
-2. Open ['helper_functions.ipynb' notebook](notebooks/helper_functions.ipynb).
+
+* Open ['helper_functions.ipynb' notebook](notebooks/helper_functions.ipynb).
 
 ![fig5](images/fig5.png)
 
@@ -17,7 +18,7 @@ Once you have opened the notebook, you will see a function called `add_your_proj
 
 ![fig1](images/fig1.png)
 
-   1. A `Badge` Generated with the ['helper_functions.ipynb' notebook](notebooks/helper_functions.ipynb). This file is included in this repo, and it will guide you through the process when you run it. It will likely take you around one minute.
+* A `Badge` Generated with the ['helper_functions.ipynb' notebook](notebooks/helper_functions.ipynb). This file is included in this repo, and it will guide you through the process when you run it. It will likely take you around one minute.
 
 
 This `Badge` will be added to the badge wall for users to peruse. The example badge below gives you an idea of how nice a project can look with just a few lines of extra formatting.
@@ -29,6 +30,12 @@ This `Badge` will be added to the badge wall for users to peruse. The example ba
 
 </div>
 
-1. Now, all you need to do is copy the first markdown block, and paste it under the appropriate heading in the main [readme](/README.md) file.
+* Now, all you need to do is copy the first markdown block, and paste it under the appropriate heading in the main [readme](/README.md) file.
 
-2. Then add the second block of code (the table portion) to the [project_board.md](/project_board.md) file. This will be the table of the repositories that displays badging and descriptions for each project.
+![fig2](images/fig2.png)
+
+* The `Badge` will be added to the badge wall for users to peruse. The example badge below gives you an idea of how nice a project can look with just a few lines of extra formatting.
+
+Then add the second block of code (the table portion) to the [project_board.md](/project_board.md) file. This will be the table of the repositories that displays badging and descriptions for each project.
+
+![fig3](images/fig3.png)
