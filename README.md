@@ -6,12 +6,17 @@ This will be a forum for sharing your little projects on your back shelf or wher
 
 - [Adding Projects](#adding-projects)
   - [Example code block to copy and paste](#example-code-block-to-copy-and-paste)
-- [Natural Language Processing](#natural-language-processing)
-- [Machine Learning](#machine-learning)
-- [Game Development for Deep Learning](#game-development-for-deep-learning)
-- [Web Scraping](#web-scraping)
-- [Data Science Tools](#data-science-tools)
-- [Acknowledgements](#acknowledgements)
+  - [Natural Language Processing](#natural-language-processing)
+  - [Machine Learning](#machine-learning)
+    - [Machine Learning - Version Control](#machine-learning---version-control)
+  - [Game Development for Deep Learning](#game-development-for-deep-learning)
+  - [Web Scraping](#web-scraping)
+  - [Data Science Tools](#data-science-tools)
+- [Data Science General](#data-science-general)
+- [Data Science for Social Good](#data-science-for-social-good)
+  - [Other](#other)
+- [Complete Index of Projects](#complete-index-of-projects)
+  - [Acknowledgements](#acknowledgements)
 - [Caffeine and Sundry Necessities](#caffeine-and-sundry-necessities)
 
 
@@ -52,32 +57,70 @@ This `Badge` will be added to the badge wall for users to peruse. The example ba
 
 
 
-# Natural Language Processing
+## Natural Language Processing
 
 <a href="https://github.com/grahamwaters/lorebook_generator_for_novelai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=lorebook_generator_for_novelai&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="lorebook_generator_for_novelai"></a>
 <a href="https://github.com/grahamwaters/medium_titles_analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=medium_titles_analysis&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="medium_titles_analysis"></a>
 
 
-# Machine Learning
+## Machine Learning
 <a href="https://github.com/grahamwaters/HowTimeFlies"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=HowTimeFlies&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="HowTimeFlies"></a>
 
-# Game Development for Deep Learning
+### Machine Learning - Version Control
+
+<a href="https://github.com/iterative/dvc"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=iterative&repo=dvc&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="dvc"></a>
+
+## Game Development for Deep Learning
 
 <a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
 
 
-# Web Scraping
+## Web Scraping
 
 <a href="https://github.com/grahamwaters/druginfo_scraper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=druginfo_scraper&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="druginfo_scraper"></a>
 <a href="https://github.com/grahamwaters/PySeas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=PySeas&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="PySeas"></a>
-# Data Science Tools
+<a href="https://github.com/talkygram/webcrawly"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=talkygram&repo=webcrawly&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="webcrawly"></a>
+## Data Science Tools
 
 <a href="https://github.com/grahamwaters/Clark-Kent-Reporter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Clark-Kent-Reporter&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Clark-Kent-Reporter"></a>
 
+# Data Science General
 
-# Acknowledgements
 
-- Graham Waters, Data Scientist & ML Research Fellow
+<a href="https://github.com/BKAmos/DataScience"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BKAmos&repo=DataScience&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DataScience"></a>
+<a href="https://github.com/VanillaLattA/DatascienceShortcuts"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=VanillaLattA&repo=DatascienceShortcuts&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DatascienceShortcuts"></a>
+<a href="https://github.com/Joyel1441/DatasetHelper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joyel1441&repo=DatasetHelper&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DatasetHelper"></a>
+# Data Science for Social Good
+
+<a href="https://github.com/Muskan33/Machine-Learning-Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Muskan33&repo=Machine-Learning-Project&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Machine-Learning-Project"></a>
+
+
+## Other
+
+<a href="https://github.com/Sage-Bionetworks/challenge-registry"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sage-Bionetworks&repo=challenge-registry&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="challenge-registry"></a>
+
+
+
+# Complete Index of Projects
+<!-- populate a table with the projects listed above -->
+| **Project Name** | **Badges** | **Description** |
+|---|---|---|
+| [Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/lorebook_generator_for_novelai) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/lorebook_generator_for_novelai) ![issues](https://img.shields.io/github/issues/grahamwaters/lorebook_generator_for_novelai) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
+| [Lorebook Generator for NovelAI](https://github.com/Joyel1441/DatasetHelper) |  ![last commit](https://img.shields.io/github/last-commit/Joyel1441/DatasetHelper) ![code size](https://img.shields.io/github/languages/code-size/Joyel1441/DatasetHelper) ![commit activity](https://img.shields.io/github/commit-activity/m/Joyel1441/DatasetHelper) ![issues](https://img.shields.io/github/issues/Joyel1441/DatasetHelper) | A simple python script that generates a lorebook for the NovelAI text generator. |
+| [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) |  ![last commit](https://img.shields.io/github/last-commit/MechanicalSoup/MechanicalSoup) ![code size](https://img.shields.io/github/languages/code-size/MechanicalSoup/MechanicalSoup) ![commit activity](https://img.shields.io/github/commit-activity/m/MechanicalSoup/MechanicalSoup) ![issues](https://img.shields.io/github/issues/MechanicalSoup/MechanicalSoup) | A Python library for automating interaction with websites. MechanicalSoup automatically stores and sends cookies, follows redirects, and can follow links and submit forms.  |
+
+
+
+
+
+
+
+
+
+
+## Acknowledgements
+
+- Graham Waters, Data Scientist & ML Researcher
 
 
 # Caffeine and Sundry Necessities
@@ -95,3 +138,6 @@ If you'd like to contribute to the hours, I spend staring at my screen in deep c
   Humans Encountered since this counter was created:<br>
   <img src="https://profile-counter.glitch.me/seeking-contributors/count.svg" />
 </p>
+
+
+<!-- https://github.com/search?q=data+science+help+label%3A%22help+wanted%22+repos%3A%3C100+language%3APython+state%3Aopen+language%3APython&type=Issues&ref=advsearch&l=Python&l=Python -->
