@@ -1,6 +1,11 @@
 
 ![header](images/header.png)
 
+<p align="center">
+  Times people have viewed this repo since it was released:<br>
+  <img src="https://profile-counter.glitch.me/seeking-contributors/count.svg" />
+</p>
+
 
 
 <div align='center'>
@@ -144,11 +149,6 @@ If you'd like to contribute to the hours, I spend staring at my screen in deep c
 <a href="https://discord.com/users/its_graham#7425" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
 </div>
-
-<p align="center">
-  Humans Encountered since this counter was created:<br>
-  <img src="https://profile-counter.glitch.me/seeking-contributors/count.svg" />
-</p>
 
 
 <!-- https://github.com/search?q=data+science+help+label%3A%22help+wanted%22+repos%3A%3C100+language%3APython+state%3Aopen+language%3APython&type=Issues&ref=advsearch&l=Python&l=Python -->
