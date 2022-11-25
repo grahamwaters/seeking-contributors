@@ -39,3 +39,7 @@ This `Badge` will be added to the badge wall for users to peruse. The example ba
 Then add the second block of code (the table portion) to the [project_board.md](/project_board.md) file. This will be the table of the repositories that displays badging and descriptions for each project.
 
 ![fig3](images/fig3.png)
+
+This will populate a row in the table with the following information:
+
+![fig6](images/fig6.png)
