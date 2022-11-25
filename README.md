@@ -15,7 +15,7 @@ This will be a forum for sharing your little projects on your back shelf or wher
 - [Data Science General](#data-science-general)
 - [Data Science for Social Good](#data-science-for-social-good)
   - [Other](#other)
-- [Complete Index of Projects](#complete-index-of-projects)
+- [The Semi-Complete Index of Projects](#the-semi-complete-index-of-projects)
   - [Acknowledgements](#acknowledgements)
 - [Caffeine and Sundry Necessities](#caffeine-and-sundry-necessities)
 
@@ -101,14 +101,14 @@ This `Badge` will be added to the badge wall for users to peruse. The example ba
 
 
 
-# Complete Index of Projects
+# The Semi-Complete Index of Projects
 <!-- populate a table with the projects listed above -->
 | **Project Name** | **Badges** | **Description** |
 |---|---|---|
 | [Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/lorebook_generator_for_novelai) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/lorebook_generator_for_novelai) ![issues](https://img.shields.io/github/issues/grahamwaters/lorebook_generator_for_novelai) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
-| [Lorebook Generator for NovelAI](https://github.com/Joyel1441/DatasetHelper) |  ![last commit](https://img.shields.io/github/last-commit/Joyel1441/DatasetHelper) ![code size](https://img.shields.io/github/languages/code-size/Joyel1441/DatasetHelper) ![commit activity](https://img.shields.io/github/commit-activity/m/Joyel1441/DatasetHelper) ![issues](https://img.shields.io/github/issues/Joyel1441/DatasetHelper) | A simple python script that generates a lorebook for the NovelAI text generator. |
+| [DatasetHelper](https://github.com/Joyel1441/DatasetHelper) |  ![last commit](https://img.shields.io/github/last-commit/Joyel1441/DatasetHelper) ![code size](https://img.shields.io/github/languages/code-size/Joyel1441/DatasetHelper) ![commit activity](https://img.shields.io/github/commit-activity/m/Joyel1441/DatasetHelper) ![issues](https://img.shields.io/github/issues/Joyel1441/DatasetHelper) | DatasetHelper |
 | [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) |  ![last commit](https://img.shields.io/github/last-commit/MechanicalSoup/MechanicalSoup) ![code size](https://img.shields.io/github/languages/code-size/MechanicalSoup/MechanicalSoup) ![commit activity](https://img.shields.io/github/commit-activity/m/MechanicalSoup/MechanicalSoup) ![issues](https://img.shields.io/github/issues/MechanicalSoup/MechanicalSoup) | A Python library for automating interaction with websites. MechanicalSoup automatically stores and sends cookies, follows redirects, and can follow links and submit forms.  |
-
+| [druginfo_scraper](https://github.com/grahamwaters/druginfo_scraper) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/druginfo_scraper) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/druginfo_scraper) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/druginfo_scraper) ![issues](https://img.shields.io/github/issues/grahamwaters/druginfo_scraper) | A simple webscraper to gather drug information from web sources. |
 
 
 
