@@ -20,8 +20,9 @@
 This will be a forum for sharing your little projects on your back shelf or where old flames get reignited and passion builds advancement.
 
 
-- [Adding Projects](#adding-projects)
+- [Contributing](#contributing)
   - [Example code block to copy and paste](#example-code-block-to-copy-and-paste)
+    - [Subpages](#subpages)
   - [Natural Language Processing](#natural-language-processing)
   - [Machine Learning](#machine-learning)
     - [Machine Learning - Version Control](#machine-learning---version-control)
@@ -35,23 +36,9 @@ This will be a forum for sharing your little projects on your back shelf or wher
   - [Acknowledgements](#acknowledgements)
 - [Caffeine and Sundry Necessities](#caffeine-and-sundry-necessities)
 
-# Adding Projects
+# Contributing
 
-To add your project, you will need several details. Follow these steps.
-
-1. Project Name ( for example, "PySeas" is one of my repos that I am seeking contributors for, so the name is just "PySeas")
-2. Description of your project (if applicable)
-3. A `Badge` Generated with the ['helper_functions.ipynb' notebook](notebooks/helper_functions.ipynb). This file is included in this repo, and it will guide you through the process when you run it. It will likely take you around one minute.
-
-This `Badge` will be added to the badge wall for users to peruse. The example badge below gives you an idea of how nice a project can look with just a few lines of extra formatting.
-
-
-<div align='center'>
-
-<a href="https://github.com/grahamwaters/lorebook_generator_for_novelai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=lorebook_generator_for_novelai&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="lorebook_generator_for_novelai"></a>
-
-</div>
-4. Now, all you need to do is copy that markdown-ready block, paste it under the appropriate heading in the readme, and submit a pull request!
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
 ## Example code block to copy and paste
 ```output
@@ -62,6 +49,17 @@ This `Badge` will be added to the badge wall for users to peruse. The example ba
 
 
 ---
+
+### Subpages
+
+[Project Board](/project_board.md) - This page has all of the projects in one place, with links to the projects and their descriptions.
+
+[Interest Groups By Topic](/interest_groups.md) - A list of interest groups by topic. This is a work in progress, and we are looking for contributors to help us build this out.
+
+
+
+
+
 
 
 <h1>Open Source Projects Seeking Contributors</h1>
