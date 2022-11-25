@@ -35,8 +35,6 @@ This will be a forum for sharing your little projects on your back shelf or wher
   - [Acknowledgements](#acknowledgements)
 - [Caffeine and Sundry Necessities](#caffeine-and-sundry-necessities)
 
-
-
 # Adding Projects
 
 To add your project, you will need several details. Follow these steps.
