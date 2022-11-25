@@ -1,7 +1,7 @@
 
 ![header](images/header.png)
 
-This is hopefully going to be a forum for sharing the little projects that you have on your backshelf or a place where old flames get reignited and passion builds progress.
+This will be a forum for sharing your little projects on your back shelf or where old flames get reignited and passion builds advancement.
 
 
 - [Adding Projects](#adding-projects)
@@ -12,7 +12,7 @@ This is hopefully going to be a forum for sharing the little projects that you h
 - [Web Scraping](#web-scraping)
 - [Data Science Tools](#data-science-tools)
 - [Acknowledgements](#acknowledgements)
-- [How to Support My Work](#how-to-support-my-work)
+- [Caffeine and Sundry Necessities](#caffeine-and-sundry-necessities)
 
 
 
@@ -22,7 +22,7 @@ To add your project, you will need several details. Follow these steps.
 
 1. Project Name ( for example, "PySeas" is one of my repos that I am seeking contributors for, so the name is just "PySeas")
 2. Description of your project (if applicable)
-3. A `Badge` Generated with the ['helper_functions.ipynb' notebook](notebooks/helper_functions.ipynb). This file is included in this repo and when you run it, it will guide you through the process. It will likely take you around one minute.
+3. A `Badge` Generated with the ['helper_functions.ipynb' notebook](notebooks/helper_functions.ipynb). This file is included in this repo, and it will guide you through the process when you run it. It will likely take you around one minute.
 
 This `Badge` will be added to the badge wall for users to peruse. The example badge below gives you an idea of how nice a project can look with just a few lines of extra formatting.
 
@@ -32,14 +32,14 @@ This `Badge` will be added to the badge wall for users to peruse. The example ba
 <a href="https://github.com/grahamwaters/lorebook_generator_for_novelai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=lorebook_generator_for_novelai&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="lorebook_generator_for_novelai"></a>
 
 </div>
-4. Now all you need to do is copy that markdown-ready block and paste it under the appropriate heading in the readme and submit a pull request!
+4. Now, all you need to do is copy that markdown-ready block, paste it under the appropriate heading in the readme, and submit a pull request!
 
 ## Example code block to copy and paste
 ```output
 <a href="https://github.com/grahamwaters/lorebook_generator_for_novelai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=lorebook_generator_for_novelai&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="lorebook_generator_for_novelai"></a>
 ```
 
-<strong>Note: If you do not see a category for your project in the headings please create a new category with the same format as the other headings and we will add it into the list.</strong>
+<strong>Note: If you do not see a category for your project in the headings, please create a new category with the same format as the other headings, and we will add it to the list.</strong>
 
 
 ---
@@ -80,9 +80,7 @@ This `Badge` will be added to the badge wall for users to peruse. The example ba
 - Graham Waters, Data Scientist & ML Research Fellow
 
 
-
-# How to Support My Work
-
+# Caffeine and Sundry Necessities
 If you'd like to contribute to the hours, I spend staring at my screen in deep concentration, I welcome any caffeine donations. ☕ Also, if you'd like to sponsor a project you see on my page, please let me know where I should focus my attention. Open Source is a big brave new world. Cheers!
 
 <div align='center'>
