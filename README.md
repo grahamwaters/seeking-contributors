@@ -28,8 +28,8 @@ This will be a forum for sharing your little projects on your back shelf or wher
   - [Game Development for Deep Learning](#game-development-for-deep-learning)
   - [Web Scraping](#web-scraping)
   - [Data Science Tools](#data-science-tools)
-- [Data Science General](#data-science-general)
-- [Data Science for Social Good](#data-science-for-social-good)
+  - [Data Science General](#data-science-general)
+  - [Data Science for Social Good](#data-science-for-social-good)
   - [Other](#other)
 - [The Semi-Complete Index of Projects](#the-semi-complete-index-of-projects)
   - [Acknowledgements](#acknowledgements)
@@ -98,14 +98,14 @@ This `Badge` will be added to the badge wall for users to peruse. The example ba
 
 <a href="https://github.com/grahamwaters/Clark-Kent-Reporter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=Clark-Kent-Reporter&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Clark-Kent-Reporter"></a>
 
-# Data Science General
+## Data Science General
 
 
 <a href="https://github.com/BKAmos/DataScience"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BKAmos&repo=DataScience&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DataScience"></a>
 <a href="https://github.com/VanillaLattA/DatascienceShortcuts"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=VanillaLattA&repo=DatascienceShortcuts&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DatascienceShortcuts"></a>
 <a href="https://github.com/Joyel1441/DatasetHelper"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Joyel1441&repo=DatasetHelper&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="DatasetHelper"></a>
 
-# Data Science for Social Good
+## Data Science for Social Good
 
 <a href="https://github.com/Muskan33/Machine-Learning-Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Muskan33&repo=Machine-Learning-Project&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="Machine-Learning-Project"></a>
 
