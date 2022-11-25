@@ -38,7 +38,7 @@ This will be a forum for sharing your little projects on your back shelf or wher
 
 # Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on how to contribute to this project or add your repository to the group.
 
 ## Example code block to copy and paste
 ```output
@@ -68,6 +68,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 ![divider](images/opensource_still.png)
 
 
+<div align="center">
 
 ## Natural Language Processing
 
@@ -111,6 +112,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
 <a href="https://github.com/Sage-Bionetworks/challenge-registry"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sage-Bionetworks&repo=challenge-registry&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="challenge-registry"></a>
 
+</div>
 
 # Table of Projects with Badging and Descriptions
 <!-- populate a table with the projects listed above -->

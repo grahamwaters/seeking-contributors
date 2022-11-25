@@ -1,10 +1,24 @@
 # Adding Projects
 
-To add your project, you will need several details. Follow these steps.
+*This file is written by Graham Waters, please feel free to [contact](https://www.linkedin.com/in/grahamwatersdatascientist/) me with any questions.*
 
-1. Project Name ( for example, "PySeas" is one of my repos that I am seeking contributors for, so the name is just "PySeas")
-2. Description of your project (if applicable)
-3. A `Badge` Generated with the ['helper_functions.ipynb' notebook](notebooks/helper_functions.ipynb). This file is included in this repo, and it will guide you through the process when you run it. It will likely take you around one minute.
+
+Adding your project is as simple as copying the url of your repo and following the instructions below.
+
+## Instructions
+1. Copy the url of your repo on GitHub.
+
+![fig0](images/fig4.png)
+2. Open ['helper_functions.ipynb' notebook](notebooks/helper_functions.ipynb).
+
+![fig5](images/fig5.png)
+
+Once you have opened the notebook, you will see a function called `add_your_project` in the first cell. This function takes the url of your repo as an argument. All you have to do is run the notebook.
+
+![fig1](images/fig1.png)
+
+   1. A `Badge` Generated with the ['helper_functions.ipynb' notebook](notebooks/helper_functions.ipynb). This file is included in this repo, and it will guide you through the process when you run it. It will likely take you around one minute.
+
 
 This `Badge` will be added to the badge wall for users to peruse. The example badge below gives you an idea of how nice a project can look with just a few lines of extra formatting.
 
