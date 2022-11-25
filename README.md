@@ -12,6 +12,8 @@
 ![stars](https://img.shields.io/github/stars/grahamwaters/seeking-contributors)
 ![license](https://img.shields.io/github/license/grahamwaters/seeking-contributors)
 ![contributors](https://img.shields.io/github/contributors/grahamwaters/seeking-contributors)
+![pull requests](https://img.shields.io/github/issues-pr/grahamwaters/seeking-contributors)
+![python version](https://img.shields.io/badge/python-3.8-blue)
 </div>
 
 ## Welcome to Seeking Contributors
