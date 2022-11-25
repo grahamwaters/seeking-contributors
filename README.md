@@ -1,6 +1,11 @@
 
+<div align='center'>
 ![header](images/header.png)
 
+![seeking-contributors](https://github.com/grahamwaters/seeking-contributors)
+![last commit](https://img.shields.io/github/last-commit/grahamwaters/seeking-contributors) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/seeking-contributors) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/seeking-contributors) ![issues](https://img.shields.io/github/issues/grahamwaters/seeking-contributors)
+
+</div>
 This will be a forum for sharing your little projects on your back shelf or where old flames get reignited and passion builds advancement.
 
 
@@ -110,7 +115,7 @@ This `Badge` will be added to the badge wall for users to peruse. The example ba
 | [druginfo_scraper](https://github.com/grahamwaters/druginfo_scraper) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/druginfo_scraper) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/druginfo_scraper) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/druginfo_scraper) ![issues](https://img.shields.io/github/issues/grahamwaters/druginfo_scraper) | A simple webscraper to gather drug information from web sources. |
 | [challenge-registry](https://github.com/Sage-Bionetworks/challenge-registry) |  ![last commit](https://img.shields.io/github/last-commit/Sage-Bionetworks/challenge-registry) ![code size](https://img.shields.io/github/languages/code-size/Sage-Bionetworks/challenge-registry) ![commit activity](https://img.shields.io/github/commit-activity/m/Sage-Bionetworks/challenge-registry) ![issues](https://img.shields.io/github/issues/Sage-Bionetworks/challenge-registry) | Challenge Registry monorepo  |
 | [dvc](https://github.com/iterative/dvc) |  ![last commit](https://img.shields.io/github/last-commit/iterative/dvc) ![code size](https://img.shields.io/github/languages/code-size/iterative/dvc) ![commit activity](https://img.shields.io/github/commit-activity/m/iterative/dvc) ![issues](https://img.shields.io/github/issues/iterative/dvc) | Version control for your machine learning projects. |
-
+| [seeking-contributors](https://github.com/grahamwaters/seeking-contributors) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/seeking-contributors) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/seeking-contributors) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/seeking-contributors) ![issues](https://img.shields.io/github/issues/grahamwaters/seeking-contributors) | The Seeking contributors hub. |
 
 
 
