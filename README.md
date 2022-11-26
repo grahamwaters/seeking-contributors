@@ -115,7 +115,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on how to contribute to 
 ## Other
 
 <a href="https://github.com/Sage-Bionetworks/challenge-registry"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sage-Bionetworks&repo=challenge-registry&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="challenge-registry"></a>
-
+<a href="https://github.com/bitmonky/mkyNetwork"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bitmonky&repo=mkyNetwork&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="mkyNetwork"></a>
 </div>
 
 # Table of Projects with Badging and Descriptions
@@ -129,7 +129,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on how to contribute to 
 | [challenge-registry](https://github.com/Sage-Bionetworks/challenge-registry) |  ![last commit](https://img.shields.io/github/last-commit/Sage-Bionetworks/challenge-registry) ![code size](https://img.shields.io/github/languages/code-size/Sage-Bionetworks/challenge-registry) ![commit activity](https://img.shields.io/github/commit-activity/m/Sage-Bionetworks/challenge-registry) ![issues](https://img.shields.io/github/issues/Sage-Bionetworks/challenge-registry) | Challenge Registry monorepo  |
 | [dvc](https://github.com/iterative/dvc) |  ![last commit](https://img.shields.io/github/last-commit/iterative/dvc) ![code size](https://img.shields.io/github/languages/code-size/iterative/dvc) ![commit activity](https://img.shields.io/github/commit-activity/m/iterative/dvc) ![issues](https://img.shields.io/github/issues/iterative/dvc) | Version control for your machine learning projects. |
 | [seeking-contributors](https://github.com/grahamwaters/seeking-contributors) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/seeking-contributors) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/seeking-contributors) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/seeking-contributors) ![issues](https://img.shields.io/github/issues/grahamwaters/seeking-contributors) | The Seeking contributors hub. |
-
+| [mkyNetwork](https://github.com/bitmonky/mkyNetwork) |  ![last commit](https://img.shields.io/github/last-commit/bitmonky/mkyNetwork) ![code size](https://img.shields.io/github/languages/code-size/bitmonky/mkyNetwork) ![commit activity](https://img.shields.io/github/commit-activity/m/bitmonky/mkyNetwork) ![issues](https://img.shields.io/github/issues/bitmonky/mkyNetwork) | An experimental self organizing peer to peer network in node.js |
 
 
 
