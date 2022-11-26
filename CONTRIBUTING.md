@@ -1,6 +1,6 @@
 # Adding Projects
 
-*This file is written by Graham Waters, please feel free to [contact](https://www.linkedin.com/in/grahamwatersdatascientist/) me with any questions.*
+*This file was written by Graham Waters, please feel free to [contact](https://www.linkedin.com/in/grahamwatersdatascientist/) me with any questions.*
 
 *If you are having technical issues with the repository and would like us to review your repo for you then please add it using this [google form](https://forms.gle/wQJpnGvizNWKydVi9) and we will work on it as soon as we can! Thank you!*
 
