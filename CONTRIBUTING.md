@@ -6,6 +6,13 @@
 Adding your project is as simple as copying the url of your repo and following the instructions below.
 
 ## Instructions
+
+1. Fork this repository first.
+2. Then git clone the repo to your local machine.
+3. Make your edits to the repo by following the instructions below.
+
+## Post-Cloning Instructions
+
 * Copy the url of your repo on GitHub.
 
 ![fig0](images/fig4.png)
@@ -43,3 +50,9 @@ Then add the second block of code (the table portion) to the [project_board.md](
 This will populate a row in the table with the following information:
 
 ![fig6](images/fig6.png)
+
+# Last Step(s)
+
+* Now you have saved your changes. Commit those changes to your fork of the repository.
+
+* Submit a Pull Request to the master branch and we will review your submission and if needed make any syntax adjustments before we merge it into the main repo!
