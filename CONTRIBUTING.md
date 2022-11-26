@@ -19,7 +19,7 @@ Adding your project is as simple as copying the URL of your repo and following t
 
 ![fig0](images/fig4.png)
 
-* Open ['helper_functions.ipynb' notebook](notebooks/helper_functions.ipynb).
+* Open ['helper_functions.ipynb' notebook](notebooks/create_project_codeblock.ipynb).
 
 ![fig5](images/fig5.png)
 
