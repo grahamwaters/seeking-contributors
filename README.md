@@ -8,7 +8,7 @@
 
 <div align='center'>
 
-[<img src = 'https://img.shields.io/badge/Submit%20Your%20Repository-green'>](./CONTRIBUTING.md)
+[<img src = 'https://img.shields.io/badge/Submit%20Your%20Repository-lightblue'>](./CONTRIBUTING.md)
 
 </div>
 
@@ -43,11 +43,10 @@ This will be a forum for sharing your little projects on your back shelf or wher
   - [Other](#other)
 - [Table of Projects with Badging and Descriptions](#table-of-projects-with-badging-and-descriptions)
   - [Acknowledgements](#acknowledgements)
-- [Caffeine and Sundry Necessities](#caffeine-and-sundry-necessities)
 
 # Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on how to contribute to this project or add your repository to the group.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on contributing to this project or adding your repository to the group.
 
 ## Example code block to copy and paste
 ```output
@@ -61,7 +60,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on how to contribute to 
 
 ### Subpages
 
-[Project Board](/project_board.md) - This page has all of the projects in one place, with links to the projects and their descriptions.
+[Project Board](/project_board.md) - This page has all the projects in one place, with links to the projects and their descriptions.
 
 
 
@@ -124,25 +123,24 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on how to contribute to 
 
 # Table of Projects with Badging and Descriptions
 <!-- populate a table with the projects listed above -->
+A preview of what the table will contain is shown below. It has a link to the project home page on GitHub and some boilerplate badges for commits/month, issues open and code size, etc. it also has a description field.
+
 | **Project Name** | **Badges** | **Description** |
 |---|---|---|
 | [Lorebook Generator for NovelAI](https://github.com/grahamwaters/lorebook_generator_for_novelai) |  ![last commit](https://img.shields.io/github/last-commit/grahamwaters/lorebook_generator_for_novelai) ![code size](https://img.shields.io/github/languages/code-size/grahamwaters/lorebook_generator_for_novelai) ![commit activity](https://img.shields.io/github/commit-activity/m/grahamwaters/lorebook_generator_for_novelai) ![issues](https://img.shields.io/github/issues/grahamwaters/lorebook_generator_for_novelai) | A Python script that generates a custom JSON lorebook (based on pulls from Wikipedia articles) for the website NovelAI. |
 
-For the full table click [here](/project_board.md).
+For the entire table, click [here](/project_board.md).
 
 
 
 ## Acknowledgements
 
-- Graham Waters, Data Scientist & ML Researcher
-
-
-# Caffeine and Sundry Necessities
-If you'd like to contribute to the hours, I spend staring at my screen in deep concentration, I welcome any caffeine donations. ☕ Also, if you'd like to sponsor a project you see on my page, please let me know where I should focus my attention. Open Source is a big brave new world. Cheers!
+- Graham Waters, Data Scientist, ML Researcher & [Freelance Data Journalist](https://medium.com/@grahamwaters)
+-  ["BitMonky"](https://github.com/bitmonky) - The official first githubber to add their project to our board!
 
 <div align='center'>
+<h1> Let's Stay in Touch </h1>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/grahamwaters)
 
 <a href="https://discord.com/users/its_graham#7425" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
