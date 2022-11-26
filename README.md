@@ -8,7 +8,7 @@
 
 <div align='center'>
 
-[<img src = 'https://img.shields.io/badge/Submit%20Your%20Repository-green'>](<https://calendly.com/gwaters_business/availability>)
+[<img src = 'https://img.shields.io/badge/Submit%20Your%20Repository-green'>](./CONTRIBUTING.md)
 
 </div>
 
