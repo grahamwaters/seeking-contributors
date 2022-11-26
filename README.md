@@ -25,9 +25,16 @@
 ![python version](https://img.shields.io/badge/python-3.8-blue)
 </div>
 
-## Welcome to Seeking Contributors
-This will be a forum for sharing your little projects on your back shelf or where old flames get reignited and passion builds advancement.
+<div align="center">
 
+## Welcome to Seeking Contributors!
+This will be a forum for sharing your little projects on your back shelf or where old flames get reignited and passion builds advancement. If you ever code so long that you choose to ignore the dumpster fire that is your office trashcan, or potentially forget that you need to eat, then it might be a great idea to collaborate instead of having to wear so many hats (spoken from experience).
+
+![maingif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+</div>
+
+<h1> Table of Contents </h1>
 
 - [Contributing](#contributing)
   - [Example code block to copy and paste](#example-code-block-to-copy-and-paste)
