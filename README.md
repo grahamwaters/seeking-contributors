@@ -99,7 +99,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on contributing to this 
 
 ## Game Development for Deep Learning
 
-<a href="https://github.com/grahamwaters/github-readme-streak-stats"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
+<a href="https://github.com/grahamwaters/GnomansLand"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grahamwaters&repo=GnomansLand&theme=react&bg_color=1F222E&title_color=9ACD32&hide_border=true&icon_color=FF4500&show_icons=false" alt="GnomansLand"></a>
 
 
 ## Web Scraping
